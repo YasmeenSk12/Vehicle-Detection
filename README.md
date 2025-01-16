@@ -1,3 +1,4 @@
+# Vehicle Detection Project
 Vehicle detection and tracking play crucial roles in intelligent transportation
 systems, traffic management, and surveillance applications. It delves into diverse
 detection techniques, tracking algorithms, and challenges such as occlusions.
